@@ -23,7 +23,7 @@ Before running the scripts, your computer MAY need the following:
 You can install the required libraries using pip:
 
 ```bash
-pip install requests beautifulsoup4
+pip install -r requirements.txt
 ```
 
 ## TODO
